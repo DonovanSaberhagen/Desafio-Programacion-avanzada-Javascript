@@ -51,28 +51,7 @@ del animal en el sitio web.
 
 ## Pasos
 
-1. Se crea una aplicación Vue en la consola A través del siguiente Comando "__*vue create --default mi-ejemplo*__"
-
-![Imagen](./src/assets/img/inicio.png)
-
-
-
-2. Seleccionamos la opcion manual y marcamos las opciones que necesitemos en este caso (vuex y router) 
-
-![Imagen](./src/assets/img/inicio%202.png)
-
-3. Alojamos el json de juegos en la carpeta store
-
-![Imagen](./src/assets/img/json%20juego.png)
-
-4. Utilizar mapState para el consumo de los juegos en el componente App
-
-![Imagen](./src/assets/img/mapst.png)
-
-5. Utilizar acciones para modificar el stock de los videojuegos
-
-![Imagen](./src/assets/img/mapaction.png)
-
+1. Se crea la estructura (assets que  Contiene las carpetas con contenido del proyecto, imagenes, sonidos), se agrega la carpeta Dominio que Contiene las clases de los tipos de animales.
 
 
 
@@ -82,4 +61,4 @@ del animal en el sitio web.
 
 ## Resultado
 
-![Imagen](./src/assets/img/final.png)
+![Imagen](./assets/imgs/resultado.png)

@@ -4,7 +4,7 @@ export class Lobo extends Animal {
     super(nombre, edad, img, comentarios, sonido);
   }
 
-  // Método específico para aullar del lobo
+  // Método
   aullar() {
     console.log(`El lobo ${this.nombre} está aullando.`);
   }
